@@ -46,6 +46,12 @@ Nexus Command is built on two pillars:
 - gRPC endpoints for lightning-fast communication
 - Asynchronous command processing
 
+## 🏛️ **High-Level Flowchart**
+
+Here is a high-level flowchart of the Nexus Command system architecture:
+
+![Flowchart](imgs/flow.png)
+
 ## 🛠️ **Technologies**
 
 - **.NET Core**: The ambrosia of modern development
